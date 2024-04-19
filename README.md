@@ -1,4 +1,1 @@
-# ISD_Angel
-
-Nama: Angel Levyne
-NIM: 607062330045
+# Jurnal05_StackQueue
